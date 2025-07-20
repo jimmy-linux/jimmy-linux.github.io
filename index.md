@@ -54,7 +54,7 @@ A little patch for `dwm` which allows you to get an instant access to the target
 window without endlessly Alt-Tab'bing and searching for the window.
 
 Link: [Focusbynum](https://github.com/jimmy-linux/focusbynum)
-___
+
 
 ## My mindset
 Here you'll read about how I think and about the base on which I do most of my
@@ -103,13 +103,14 @@ if recovery then only physically active, read books. Although it's far from
 consistent.
 Also, love to make new connections. So feel free to text me. The links are in
 the end of this page.
-***
+
 
 ## My background
 I'm Dmytro Rohiv, born in Rivne, Ukraine. Moved to Kyiv at 2025. First touched
 GNU/Linux at 2020. Loved to customize everything to my needs. Was a fan of
 visually minimal interfaces.
-===
+
+
 
 # Links
 - Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
