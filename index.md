@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Jim Linux
 ---
 You have arrived at my personal website homepage. This means you'll have to read
