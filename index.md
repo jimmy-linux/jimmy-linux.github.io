@@ -1,6 +1,3 @@
----
-title: Jim Linux
----
 You have arrived at my personal website homepage. This means you'll have to read
 a little about myself now. I'll tell you about what I did first, then about my
 mindset, and then about my background.
@@ -13,12 +10,14 @@ left after the description of each one.
 This is my note taking system. It's made as a plugin for neovim, and in some way
 intersects with orgmode, although lacks a bunch of features to be called an
 alternative to orgmode.
+
 [Vinote](https://github.com/jimmy-linux/vinote)
 
 ### Querypath
 The fork of the `zoxide` cli tool, which extends its functionality to use with
 any kind of files with any kind of cli command which uses file path as its
 argument.
+
 [Querypath](https://github.com/jimmy-linux/querypath)
 
 ### Keyflux
@@ -26,11 +25,13 @@ The best in the world (for me) keyboard layout for use on regular laptops. It's
 implemented on `kanata`, and was developed on a standard physical thinkpad
 keyboard layout. Uses multiple access levels to access Fn keys, spec symbols and
 digits as well as convenient modkeys placement.
+
 [Keyflux](https://github.com/jimmy-linux/keyflux)
 
 ### Focusbynum
 A little patch for `dwm` which allows you to get an instant access to the target
 window without endlessly Alt-Tab'bing and searching for the window.
+
 [Focusbynum](https://github.com/jimmy-linux/focusbynum)
 
 ## My mindset
@@ -38,6 +39,10 @@ Here you'll read about how I think and about the base on which I do most of my
 life decisions.
 
 ### Software
+#### Freedom
+I try to only use free software (is in freedom). I'm a fan of the philosophy of
+the freedom to study, modify and share.
+
 #### Weight
 I always try to find and use the simplest and most optimized on hardware
 software. I don't need any fancy animations and decorations-I just need a lot of
@@ -83,6 +88,6 @@ GNU/Linux at 2020. Loved to customize everything to my needs. Was a fan of
 visually minimal interfaces.
 
 # Links
-Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
-YouTube: [@jim-linux](https://youtube.com/@jim-linux)
-LinkedIn: [Dmytro Rohiv](https://www.linkedin.com/in/dmytro-rohiv)
+- Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
+- YouTube: [@jim-linux](https://youtube.com/@jim-linux)
+- LinkedIn: [Dmytro Rohiv](https://www.linkedin.com/in/dmytro-rohiv)
