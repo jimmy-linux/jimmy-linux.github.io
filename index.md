@@ -2,6 +2,27 @@ You have arrived at my personal website homepage. This means you'll have to read
 a little about myself now. I'll tell you about what I did first, then about my
 mindset, and then about my background.
 
+## Content
+- [My personal projects](#my-personal-projects)
+    - [Vinote](#vinote)
+    - [Querypath](#querypath)
+    - [Keyflux](#keyflux)
+    - [Focusbynum](#focusbynum)
+- [My mindset](#my-mindset)
+    - [Software](#software)
+        - [Freedom](#freedom)
+        - [Weight](#weight)
+        - [Keyboard-drivenness](#keyboard-drivenness)
+        - [CLI](#cli)
+    - [Hardware](#hardware)
+        - [Keyboard](#keyboard)
+        - [Mouse](#mouse)
+    - [Lifestyle](#lifestyle)
+- [My background](#my-background)
+- [Links](#links)
+
+---
+
 ## My personal projects
 Here I'll list my personal hobby projects. The links to each of them will be
 left after the description of each one.
@@ -11,14 +32,14 @@ This is my note taking system. It's made as a plugin for neovim, and in some way
 intersects with orgmode, although lacks a bunch of features to be called an
 alternative to orgmode.
 
-[Vinote](https://github.com/jimmy-linux/vinote)
+Link: [Vinote](https://github.com/jimmy-linux/vinote)
 
 ### Querypath
 The fork of the `zoxide` cli tool, which extends its functionality to use with
 any kind of files with any kind of cli command which uses file path as its
 argument.
 
-[Querypath](https://github.com/jimmy-linux/querypath)
+Link: [Querypath](https://github.com/jimmy-linux/querypath)
 
 ### Keyflux
 The best in the world (for me) keyboard layout for use on regular laptops. It's
@@ -26,13 +47,13 @@ implemented on `kanata`, and was developed on a standard physical thinkpad
 keyboard layout. Uses multiple access levels to access Fn keys, spec symbols and
 digits as well as convenient modkeys placement.
 
-[Keyflux](https://github.com/jimmy-linux/keyflux)
+Link: [Keyflux](https://github.com/jimmy-linux/keyflux)
 
 ### Focusbynum
 A little patch for `dwm` which allows you to get an instant access to the target
 window without endlessly Alt-Tab'bing and searching for the window.
 
-[Focusbynum](https://github.com/jimmy-linux/focusbynum)
+Link: [Focusbynum](https://github.com/jimmy-linux/focusbynum)
 
 ## My mindset
 Here you'll read about how I think and about the base on which I do most of my
