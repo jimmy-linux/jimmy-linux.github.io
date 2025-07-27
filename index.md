@@ -4,10 +4,6 @@ mindset, and then about my background.
 
 ## Content
 - [My personal projects](#my-personal-projects)
-    - [Vinote](#vinote)
-    - [Querypath](#querypath)
-    - [Keyflux](#keyflux)
-    - [Focusbynum](#focusbynum)
 - [My mindset](#my-mindset)
     - [Software](#software)
         - [Freedom](#freedom)
@@ -23,38 +19,14 @@ mindset, and then about my background.
 
 ---
 
-## My personal projects
-Here I'll list my personal hobby projects. The links to each of them will be
-left after the description of each one.
+## Projects
+I love doing my personal projects. Whenever some idea poped into my mind I jump
+straight into implementing the idea in real life.
 
-### Vinote
-This is my note taking system. It's made as a plugin for neovim, and in some way
-intersects with orgmode, although lacks a bunch of features to be called an
-alternative to orgmode.
-
-Link: [Vinote](https://github.com/jimmy-linux/vinote)
-
-### Querypath
-The fork of the `zoxide` cli tool, which extends its functionality to use with
-any kind of files with any kind of cli command which uses file path as its
-argument.
-
-Link: [Querypath](https://github.com/jimmy-linux/querypath)
-
-### Keyflux
-The best in the world (for me) keyboard layout for use on regular laptops. It's
-implemented on `kanata`, and was developed on a standard physical thinkpad
-keyboard layout. Uses multiple access levels to access Fn keys, spec symbols and
-digits as well as convenient modkeys placement.
-
-Link: [Keyflux](https://github.com/jimmy-linux/keyflux)
-
-### Focusbynum
-A little patch for `dwm` which allows you to get an instant access to the target
-window without endlessly Alt-Tab'bing and searching for the window.
-
-Link: [Focusbynum](https://github.com/jimmy-linux/focusbynum)
-
+- [Vinote](projects/vinote) - a deep note taking system, plugin for neovim.
+- [Querypath](projects/querypath) - makes working with files in the console more efficient.
+- [Keyflux](projects/keyflux) - my most ergonomic keyboard layout for laptops.
+- [Focusbynum](projects/focusbynum) - the fastest way to access the target window in dwm.
 
 ## My mindset
 Here you'll read about how I think and about the base on which I do most of my
@@ -62,7 +34,7 @@ life decisions.
 
 ### Software
 #### Freedom
-I try to only use free software (is in freedom). I'm a fan of the philosophy of
+I try to only use free software (as in freedom). I'm a fan of the philosophy of
 the freedom to study, modify and share.
 
 #### Weight
@@ -110,9 +82,8 @@ I'm Dmytro Rohiv, born in Rivne, Ukraine. Moved to Kyiv at 2025. First touched
 GNU/Linux at 2020. Loved to customize everything to my needs. Was a fan of
 visually minimal interfaces.
 
-
-
 # Links
-- Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
 - YouTube: [@jim-linux](https://youtube.com/@jim-linux)
+- GitHub: [jimmy-linux](https://github.com/jimmy-linux)
+- Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
 - LinkedIn: [Dmytro Rohiv](https://www.linkedin.com/in/dmytro-rohiv)
