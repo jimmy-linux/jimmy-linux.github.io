@@ -27,6 +27,7 @@ straight into implementing the idea in real life.
 - [Querypath](projects/querypath) - makes working with files in the console more efficient.
 - [Keyflux](projects/keyflux) - my most ergonomic keyboard layout for laptops.
 - [Focusbynum](projects/focusbynum) - the fastest way to access the target window in dwm.
+- [Dwm](projects/dwm) - my version of dwm.
 
 ## My mindset
 Here you'll read about how I think and about the base on which I do most of my
