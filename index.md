@@ -35,6 +35,7 @@ I have my own definition of what a good software is:
 - Having a CLI client.
 - No decorations.
 - No animations.
+- No ads.
 
 ## What hardware I use
 ThinkPads are great. They have a really good integration with Arch Linux. And,
