@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header > nav > li#home {
+  float: left;
+  margin-left: 0px;
+  margin-right: 5px;
+}
+
+#header > nav > li.category {
+  float: left;
+  margin-left: 10px;
+}
