@@ -4,16 +4,9 @@ mindset, and then about my background.
 
 ## Content
 - [My personal projects](#projects)
-- [My mindset](#my-mindset)
-    - [Software](#software)
-        - [Freedom](#freedom)
-        - [Weight](#weight)
-        - [Keyboard-drivenness](#keyboard-drivenness)
-        - [CLI](#cli)
-    - [Hardware](#hardware)
-        - [Keyboard](#keyboard)
-        - [Mouse](#mouse)
-    - [Lifestyle](#lifestyle)
+- [What a good software means to me](#what-a-good-software-means-to-me)
+- [What hardware I use](#what-hardware-i-use)
+- [Lifestyle](#lifestyle)
 - [My background](#my-background)
 - [Links](#links)
 
@@ -43,12 +36,6 @@ I have my own definition of what a good software is:
 - No decorations.
 - No animations.
 
-## Lifestyle
-I always try to keep my lifestyle active. The first thing in the morning should
-be movement. Recovery should be only by movement. Excercising is beyond
-negotiation. If commuting somewhere then only by bicycle. Also, I try to connect
-with people as much as possible, and only IRL if possible.
-
 ## What hardware I use
 ThinkPads are great. They have a really good integration with Arch Linux. And,
 their keyboards are of high quality, like the laptops themselves. Mine's T480.
@@ -58,6 +45,12 @@ keyboard.
 
 As for a mouse - I use just trackpoint or a trackpad. Mouse is just too far away
 from the keyboard.
+
+## Lifestyle
+I always try to keep my lifestyle active. The first thing in the morning should
+be movement. Recovery should be only by movement. Excercising is beyond
+negotiation. If commuting somewhere then only by bicycle. Also, I try to connect
+with people as much as possible, and only IRL if possible.
 
 ## My background
 I'm Dmytro Rohiv, born in Rivne, Ukraine. Moved to Kyiv in 2025. First touched
