@@ -3,7 +3,7 @@ a little about myself now. I'll tell you about what I did first, then about my
 mindset, and then about my background.
 
 ## Content
-- [My personal projects](#my-personal-projects)
+- [My personal projects](#projects)
 - [My mindset](#my-mindset)
     - [Software](#software)
         - [Freedom](#freedom)
@@ -20,8 +20,10 @@ mindset, and then about my background.
 ---
 
 ## Projects
-I love doing my personal projects. Whenever some idea poped into my mind I jump
-straight into implementing the idea in real life.
+I love doing my personal projects. Whenever some idea I'm excited about poped
+into my mind I develop it in my `Vinote` and jump straight into implementing it
+in real life. And the most exciting thing is when I actually use the project in
+my everyday life. Here are the projects I enjoy using:
 
 - [Vinote](projects/vinote) - a deep note taking system, plugin for neovim.
 - [Querypath](projects/querypath) - makes working with files in the console more efficient.
@@ -29,59 +31,38 @@ straight into implementing the idea in real life.
 - [Focusbynum](projects/focusbynum) - the fastest way to access the target window in dwm.
 - [Dwm](projects/dwm) - my version of dwm.
 
-## My mindset
-Here you'll read about how I think and about the base on which I do most of my
-life decisions.
+Click on any of them and check them out.
 
-### Software
-#### Freedom
-I try to only use free software (as in freedom). I'm a fan of the philosophy of
-the freedom to study, modify and share.
+## What a good software means to me
+I have my own definition of what a good software is:
+- Free (as in freedom).
+- Open source.
+- Light on resources.
+- Keyboard-driven.
+- Having a CLI client.
+- No decorations.
+- No animations.
 
-#### Weight
-I always try to find and use the simplest and most optimized on hardware
-software. I don't need any fancy animations and decorations-I just need a lot of
-features with the convenient access from keyboard.
+## Lifestyle
+I always try to keep my lifestyle active. The first thing in the morning should
+be movement. Recovery should be only by movement. Excercising is beyond
+negotiation. If commuting somewhere then only by bicycle. Also, I try to connect
+with people as much as possible, and only IRL if possible.
 
-#### Keyboard-drivenness
-I love it when I can do all of my work without lifting my hands off my keyboard
-with my lovely Keyflux. The more I use keyboard for my daily actions the more my
-mechanical memory is trained to do those things, which leads to automated
-actions before even fully finished thought.
+## What hardware I use
+ThinkPads are great. They have a really good integration with Arch Linux. And,
+their keyboards are of high quality, like the laptops themselves. Mine's T480.
 
-#### CLI
-CLI a.k.a. the shell a.k.a. the console is everything. I use the console most of
-the time wherever I can. Just because it's scriptable, especially if the tools
-aren't interactive. Because everything I do in the console can be put into a script,
-aliased, looped, wrapped into a function, or put into the .\*rc file.
+Also, going to make my own keyboard which will replace the built-in ThinkPad's
+keyboard.
 
-### Hardware
-I use ThinkPad T480. I chose this one because some people say it's *the last
-good thinkpad*. And I think I'll be using ThinkPads long after this one, because
-they are really good. I like how they can be easily upgraded and customized.
-Also, for this same reason I use mikrotik routers: you can do literally
-everything on them-even run docker containers on them.
-
-#### Keyboard
-Also, I'd like to make my own physical keyboard. This project is already
-described, so going to implement it in the near future.
-
-#### Mouse
-What's a mouse?..
-
-### Lifestyle
-I like to feel good. That's why I try to keep my mental and physical health in a
-good shape. I do sport regularly, eat healthy, rest enough, work on my hobbies,
-if recovery then only physically active, read books. Although it's far from
-consistent.
-Also, love to make new connections. So feel free to text me. The links are in
-the end of this page.
-
+As for a mouse - I use just trackpoint or a trackpad. Mouse is just too far away
+from the keyboard.
 
 ## My background
-I'm Dmytro Rohiv, born in Rivne, Ukraine. Moved to Kyiv at 2025. First touched
-GNU/Linux at 2020. Loved to customize everything to my needs. Was a fan of
-visually minimal interfaces.
+I'm Dmytro Rohiv, born in Rivne, Ukraine. Moved to Kyiv in 2025. First touched
+GNU/Linux in 2020. Always loved to customize everything to my needs. Was a fan
+of visually minimal but feature-rich interfaces.
 
 # Links
 - YouTube: [@jim-linux](https://youtube.com/@jim-linux)
