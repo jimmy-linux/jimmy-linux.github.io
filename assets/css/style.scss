@@ -3,13 +3,20 @@
 
 @import "{{ site.theme }}";
 
-#header > nav > li#home {
+#header > nav > ul > li#home {
   float: left;
   margin-left: 0px;
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
-#header > nav > li.category {
+#header > nav > ul > li.category {
   float: left;
-  margin-left: 10px;
+  margin-left: 5;
+  margin-right: 5;
+}
+
+#header > nav > ul > li.meta {
+  float: left;
+  margin-left: 5;
+  margin-right: 5;
 }
