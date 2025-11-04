@@ -63,3 +63,4 @@ of visually minimal but feature-rich interfaces.
 - GitHub: [jimmy-linux](https://github.com/jimmy-linux)
 - Discord: [@jim-linux](https://discord.com/users/1142746347917811763)
 - LinkedIn: [Dmytro Rohiv](https://www.linkedin.com/in/dmytro-rohiv)
+- Instagram: [@jimlinux](https://www.instagram.com/jimlinux)
